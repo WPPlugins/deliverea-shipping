@@ -1,0 +1,5 @@
+{
+    "require": {
+        "deliverea/deliverea-php": "^0.0.8"
+    }
+}

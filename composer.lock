@@ -1,0 +1,45 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "98173a57174722a190b334e0123d8b43",
+    "content-hash": "2b11c3f488ef42c24d50902ff8979079",
+    "packages": [
+        {
+            "name": "deliverea/deliverea-php",
+            "version": "0.0.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/deliverea/deliverea-php.git",
+                "reference": "fa9cc6e2a056b6c89dd8507d00205bb3f5cfe764"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/deliverea/deliverea-php/zipball/fa9cc6e2a056b6c89dd8507d00205bb3f5cfe764",
+                "reference": "fa9cc6e2a056b6c89dd8507d00205bb3f5cfe764",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^5.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Deliverea\\": "src/Deliverea"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "time": "2016-07-04 09:46:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

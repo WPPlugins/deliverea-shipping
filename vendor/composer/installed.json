@@ -1,0 +1,30 @@
+[
+    {
+        "name": "deliverea/deliverea-php",
+        "version": "0.0.8",
+        "version_normalized": "0.0.8.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/deliverea/deliverea-php.git",
+            "reference": "fa9cc6e2a056b6c89dd8507d00205bb3f5cfe764"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/deliverea/deliverea-php/zipball/fa9cc6e2a056b6c89dd8507d00205bb3f5cfe764",
+            "reference": "fa9cc6e2a056b6c89dd8507d00205bb3f5cfe764",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^5.4"
+        },
+        "time": "2016-07-04 09:46:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Deliverea\\": "src/Deliverea"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/"
+    }
+]
